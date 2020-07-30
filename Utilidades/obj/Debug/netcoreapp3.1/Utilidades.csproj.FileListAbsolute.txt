@@ -1,0 +1,12 @@
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.deps.json
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.runtimeconfig.json
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.runtimeconfig.dev.json
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfoInputs.cache
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfo.cs
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.genruntimeconfig.cache
+C:\Users\luismonsalve\source\repos\Prueba\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.csprojAssemblyReference.cache

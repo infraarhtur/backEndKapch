@@ -1,0 +1,15 @@
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\kapsch.Peaje.Datos.deps.json
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\kapsch.Peaje.Datos.runtimeconfig.json
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\kapsch.Peaje.Datos.runtimeconfig.dev.json
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\kapsch.Peaje.Datos.dll
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\kapsch.Peaje.Datos.pdb
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\kapsch.Peaje.Modelos.dll
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\kapsch.Peaje.Modelos.pdb
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\kapsch.Peaje.Datos.csprojAssemblyReference.cache
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\kapsch.Peaje.Datos.AssemblyInfoInputs.cache
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\kapsch.Peaje.Datos.AssemblyInfo.cs
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\kapsch.Peaje.Datos.csproj.CoreCompileInputs.cache
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\kapsch.Peaje.Datos.csproj.CopyComplete
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\kapsch.Peaje.Datos.dll
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\kapsch.Peaje.Datos.pdb
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\kapsch.Peaje.Datos.genruntimeconfig.cache

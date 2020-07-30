@@ -1,0 +1,15 @@
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\Datos.runtimeconfig.json
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\Datos.runtimeconfig.dev.json
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\luismonsalve\source\repos\Prueba\Datos\bin\Debug\netcoreapp3.1\Modelos.pdb
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\Datos.csprojAssemblyReference.cache
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\luismonsalve\source\repos\Prueba\Datos\obj\Debug\netcoreapp3.1\Datos.genruntimeconfig.cache
